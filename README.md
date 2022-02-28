@@ -1,6 +1,7 @@
 # game-challenge
 
-Game Programming Task
+## Game Programming Task
+
 In order to be considered for the developer position, you mush complete a clone of Mario Fly Swatter game, please check the following steps.
 
 Note: This task should take no longer than 1 day.
