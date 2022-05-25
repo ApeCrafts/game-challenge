@@ -14,7 +14,7 @@ In the source directory, please create a project that accomplishes the following
 
 - Choose your favorite 2D/3D game engine and create related project;
 - This repository contains a video of what the final gameplay should look like (you can also Google 'Mario Fly Swatter' for more info);
-- Use simple placeholder art for game objects (or find any art your like from Internet);
+- Use simple placeholder art for game objects (or find any art you like from Internet);
 - Implement at least 2 types of fly logic;
 - Implement other game logic like winning/losing, game scores, etc.
 
